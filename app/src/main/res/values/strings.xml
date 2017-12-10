@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HealthGraph</string>
+    <string name="action_settings">Logout</string>
+    <string name="title_activity_game_details">GameDetailsActivity</string>
+
+    <string name="title_activity_login">HealthGraph</string>
+
+    <string name="facebook_app_id">2051687648434637</string>
+    <string name="fb_login_protocol_scheme">fb2051687648434637</string>
+</resources>
